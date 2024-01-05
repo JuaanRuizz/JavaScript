@@ -41,4 +41,7 @@ for (let i = 0; i < 3; i++) {
     let variableLet = "Soy la segunda variable LET"
 }
 
-console.log(variable);
+console.log(variableLet);
+// "typeof" se usa para conocer qué tipo primitivo es la variable asignada.
+console.log(typeof variableLet)
+
